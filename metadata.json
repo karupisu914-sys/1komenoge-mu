@@ -1,0 +1,6 @@
+{
+  "name": "Alleyway Gunfight",
+  "description": "A thrilling side-scrolling shootout game set in a narrow city alleyway featuring dynamic gunplay, weapon upgrades, and stylish effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
